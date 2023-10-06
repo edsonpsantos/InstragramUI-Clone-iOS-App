@@ -24,5 +24,8 @@ The repository contains all code based on an MVVM architecture with Swift and Sw
 ## Important note:
 🚀 This app is under development, so new features are being created daily.
 
+🔗 Figma Instagram UI Kit link used in this project: [**https://www.figma.com/community/file/...**](https://www.figma.com/community/file/878318142103232907/instagram-ui-kit-1-0)
+
+
 
 🙏🏽 Thanks for your attention ! 
