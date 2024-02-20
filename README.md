@@ -21,9 +21,13 @@ The repository contains all code based on an MVVM architecture with Swift and Sw
    - The ViewModel contains the business logic for the app, connecting the View to the data (Models)!
 * Good practices
 
-## Important note:
-🚀 This app is under development, so new features are being created daily.
 
+
+https://github.com/edsonpsantos/InstragramUI-iOSApp/assets/24628289/8f19eef4-f8ef-4caf-9b23-6630bc34a141
+
+
+
+## Important note:
 🔗 Figma Instagram UI Kit link used in this project: [**https://www.figma.com/community/file/...**](https://www.figma.com/community/file/878318142103232907/instagram-ui-kit-1-0)
 
 
