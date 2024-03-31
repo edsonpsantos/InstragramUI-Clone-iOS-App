@@ -1,4 +1,4 @@
-# InstragramUI-iOSApp
+# Instragram UI Clone iOS App
 
 ## 📱 About this project
 This project refers to a UI Instagram clone by iOS Mobile.
